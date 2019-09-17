@@ -4,7 +4,7 @@ Django DRF , REACTjs token based auth.
 ## Backend
 Django DRF
 
-install packages:
+Install packages:
 ```pip3 install -r requirements.txt```
 
 Run:
@@ -13,7 +13,7 @@ Run:
 ## Frontend
 Reactjs
 
-install packages:
+Install packages:
 ``` npm install ``` 
 
 Run:
