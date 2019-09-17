@@ -1,0 +1,30 @@
+.SN-cont {
+  width: 300px;
+  color: white;
+  height: 800px;
+  background-color: #4db6ac;
+  position: fixed;
+  height: -webkit-fill-available;
+
+  .SN-Name {
+    text-align: center;
+    background-color: #26a69a;
+    font-weight: 600;
+    align-items: center;
+    padding: 20px;
+    font-size: 25px;
+  }
+  .SN-items {
+    display: flex;
+    flex-direction: column;
+    height: 80%;
+    font-size: 20px;
+  }
+  .SN-item {
+    padding: 25px;
+    padding-left: 80px;
+  }
+  .active {
+    background-color: #00838f;
+  }
+}
